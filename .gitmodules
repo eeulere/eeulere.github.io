@@ -1,0 +1,3 @@
+[submodule "movie_notes"]
+	path = movie_notes
+	url = git@github.com:eeulere/movie_notes.git
